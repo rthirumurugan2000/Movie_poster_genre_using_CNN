@@ -11,5 +11,3 @@
 
 # Reference:
 ->https://www.cs.ccu.edu.tw/~wtchu/projects/MoviePoster/index.html 
-
--> kgp talkie- dataset
